@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InventoryApp1</string>
+    <string name="read_from_database">Read from database</string>
+    <string name="add_sample_data">Add sample data</string>
+</resources>
